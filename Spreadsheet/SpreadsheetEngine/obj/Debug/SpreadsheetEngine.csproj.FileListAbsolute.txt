@@ -1,0 +1,4 @@
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb

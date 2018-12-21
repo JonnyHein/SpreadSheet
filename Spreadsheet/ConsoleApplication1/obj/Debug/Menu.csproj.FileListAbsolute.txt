@@ -1,0 +1,10 @@
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\bin\Debug\SpreadsheetEngine.dll
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jonat\Source\Repos\cs321-jhein\Spreadsheet\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
